@@ -7,7 +7,7 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 @SpringBootApplication
 @EnableConfigServer
 public class SpringBootConfigServerApplication {
-
+//git commit.
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootConfigServerApplication.class, args);
 	}
